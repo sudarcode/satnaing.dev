@@ -1,26 +1,26 @@
 ---
 coverImageWidth: "1200"
 coverImageHeight: "700"
-datetime: 2026-06-12T11:05:12.000+00:00
+datetime: 2026-06-12T16:55:12.000+00:00
 tags:
   - NextJS
   - TailwindCSS
   - HeadlessCMS
-  - Blog
-author: Sudar Blogger
+author: Kang Sudar
 type: article
 coverImage: https://res.cloudinary.com/dm62vr3ff/image/upload/q_auto/f_auto/v1781236960/nextjs_dhnvp0.png
 coverImageAlt: Macbook at a cafe
-title: Mencoba Menggunakan Next.js Untuk Personal Blog, yang mana merupakan media pembalajaran sebagai Nextjs yang bagaimana saya pelajari
+title: Mencoba Menggunakan Next.js Untuk Personal Blog
 description:
-  Menggunakan Nextjs untuk react blog selanjutnya dan blog ini sebagai pembalajaran dan merupakan CMS yang populer para devoloper
+  Mencoba Menggunakan Next.js Untuk Personal Blog, yang mana merupakan media pembalajaran sebagai Nextjs yang bagaimana saya pelajari
 excerpt:
-Penasaran dengan nextjs dimana template nya yang bagus, ditambah Nextjs ini adalah CMS populer bagi para devoloper
-slug: menggunakan-nextjs
+  Penasaran dengan nextjs dimana template nya yang bagus, ditambah Nextjs ini adalah CMS populer bagi para devoloper, pilih mana astro, hugo atau nextjs? 
+slug: mencoba-nextjs
 featured: true
 category: Jurnal
 language: Indonesia
 ---
+
 
 Karena penasaran dengan Next Js akhirnya saya mencoba menggunakan Next Js ini pada blog saya pribadi, sebenarnya saya juga menggunakan Hugo dan Astro.
 
