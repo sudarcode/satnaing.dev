@@ -11,7 +11,7 @@ author: Sudar Blogger
 type: article
 coverImage: https://res.cloudinary.com/dm62vr3ff/image/upload/q_auto/f_auto/v1781236960/nextjs_dhnvp0.png
 coverImageAlt: Macbook at a cafe
-title: Mencoba Menggunakan Next.js Untuk Personal Blog
+title: Mencoba Menggunakan Next.js Untuk Personal Blog, yang mana merupakan media pembalajaran sebagai Nextjs yang bagaimana saya pelajari
 description:
   Menggunakan Nextjs untuk react blog selanjutnya dan blog ini sebagai pembalajaran dan merupakan CMS yang populer para devoloper
 excerpt:
