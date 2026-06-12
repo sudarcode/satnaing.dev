@@ -193,28 +193,13 @@ const AboutSection: React.FC = () => {
 const educationInfo = [
   {
     id: 1,
-    title: "B.Sc (Hons) in Computing",
-    subTitle: "Edinburgh Napier University | 2018 ~ 2019",
+    title: "SMK AHMAD YANI SUKORAME",
+    subTitle: "Jurusan Multimedia | 2011 ~ 2014",
     list: [
-      "Studied computer science, software development, DevOps",
-      "Graduated with First Class Honours",
-      "Got merit in 7 modules out of 9",
+      "Desain Grafis, Video Grafis, Web Desain",
+      "Fokus ke Web Devoloper",
+      "Dan Fokus Mencari Uang di Internet",
     ],
-  },
-  {
-    id: 2,
-    title: "HND in Computing & System Development",
-    subTitle: "Info Myanmar University | 2016 - 2018",
-    list: [
-      "Studied modules specializing in software development",
-      "Passed HND with overall Merit",
-    ],
-  },
-  {
-    id: 3,
-    title: "IELTS",
-    subTitle: "British Council Myanmar | 2017",
-    list: ["Got overall band score 6.5."],
   },
 ];
 
