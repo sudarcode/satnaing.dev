@@ -13,11 +13,9 @@ coverImage: https://res.cloudinary.com/dm62vr3ff/image/upload/q_auto/f_auto/v178
 coverImageAlt: Macbook at a cafe
 title: Mencoba Menggunakan Next.js Untuk Personal Blog
 description:
-  Menggunakan Nextjs untuk react blog selanjutnya dan blog ini sebagai pembalajaran
-  using NextJS and a headless CMS.
+  Menggunakan Nextjs untuk react blog selanjutnya dan blog ini sebagai pembalajaran dan merupakan CMS yang populer para devoloper
 excerpt:
-Penasaran dengan nextjs dimana template nya yang bagus
-  experiences.
+Penasaran dengan nextjs dimana template nya yang bagus, ditambah Nextjs ini adalah CMS populer bagi para devoloper
 slug: menggunakan-nextjs
 featured: true
 category: Jurnal
