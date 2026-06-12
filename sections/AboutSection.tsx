@@ -169,11 +169,7 @@ const AboutSection: React.FC = () => {
             </div>
 
             <p className="col-start-1 col-end-3 row-start-4 row-end-6 lg:row-start-1 lg:row-end-2 lg:col-start-3 lg:col-end-6 lg:ml-8 lg:mt-auto about-intro">
-              With 4+ years of comprehensive experience in web application
-              development, I have polished my skills in both frontend and
-              backend development. In addition to my hands-on experience in web
-              development, my education has also played a critical role in
-              providing a strong foundation for my career.
+              Perkenalkan nama saya adalah Nauval Sudarmanto, Blogger Asal lamongan. saya di dunia blogger ini hampir 9 tahun lebih dan memperlajari banyak hal bahkan banyak teman dan koneksi selama menjadi blogger. Tidak hanya itu saya juga bergabung di komunitas blogger mulai dari Blogger Lamongan, Kompasiana Jatim dan masih banyak lagi. 
             </p>
 
             <div
