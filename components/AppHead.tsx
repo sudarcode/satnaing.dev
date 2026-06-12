@@ -25,7 +25,7 @@ const AppHead: React.FC<Props> = ({
   let author = "Sudar Blogger";
   let description =
     "Articles about programming, coding, technologies, software engineering, my personal projects and my experiences.";
-  let siteName = "Sudar Blog";
+  let siteName = "Sudar Blogger";
   let type = "article";
   let coverImage: string | undefined;
   let coverImageAlt: string | undefined;
@@ -44,7 +44,7 @@ const AppHead: React.FC<Props> = ({
   }
 
   let appOgImage = `${process.env.NEXT_PUBLIC_URL}/satnaing-blog-og.png`;
-  let appOgImageAlt = "Sat Naing's Blog";
+  let appOgImageAlt = "Kang Sudar Blog";
 
   if (ogImage) {
     appOgImage = ogImage;
