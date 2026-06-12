@@ -13,11 +13,10 @@ coverImage: https://res.cloudinary.com/dm62vr3ff/image/upload/q_auto/f_auto/v178
 coverImageAlt: Macbook at a cafe
 title: Mencoba Menggunakan Next.js Untuk Personal Blog
 description:
-  My experience about developing my first portfolio website and a blog
+  Menggunakan Nextjs untuk react blog selanjutnya dan blog ini sebagai pembalajaran
   using NextJS and a headless CMS.
 excerpt:
-  My journey about planning, designing and developing my very first portfolio
-  website and my personal blog. Thoughts about my motivation for this project and
+Penasaran dengan nextjs dimana template nya yang bagus
   experiences.
 slug: menggunakan-nextjs
 featured: true
@@ -29,7 +28,7 @@ Karena penasaran dengan Next Js akhirnya saya mencoba menggunakan Next Js ini pa
 
 Blog ini karena menggunakan Next Js mungkin akan share pengalaman tutorial yang menggunakan Next Js ini dan mungkin tempat saya untuk belajar juga. 
 
-##Apa itu Next.js
+## Apa itu Next.js
 Next.js adalah framework berbasis React yang digunakan untuk membangun aplikasi web full-stack modern. Dibuat oleh perusahaan Vercel, framework ini membantu developer melewati konfigurasi yang rumit dengan menyediakan struktur bawaan untuk routing (berbasis folder), pengolahan data, dan optimalisasi performa.
 
 Berikut adalah beberapa aspek utama dari Next.js yang perlu Anda ketahui:
